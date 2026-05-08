@@ -15,7 +15,7 @@ int main() {
      * DECLARACAO DAS VARIAVEIS
      * ====================================================== */
     char  placa[10];         /* Placa do veiculo */
-    char  tipoVeiculo[20];   /* O que o usuario digitou (texto livre) */
+    char  tipoVeiculo[20];   /* O que o usuario digitou */
     int   tipoNum;           /* Tipo convertido para numero (1, 2, 3) */
     float horas;             /* Tempo de permanencia */
 
